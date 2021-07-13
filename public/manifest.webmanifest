@@ -6,6 +6,7 @@
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
     "orientation": "portrait-primary",
+    "description": "A budget tracker that has offline capabilities.",
     "icons": [
         {
             "src": "/icons/icon-192x192.png",
